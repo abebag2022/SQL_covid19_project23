@@ -4,12 +4,12 @@
 ## Data Source
 ## SQL files
 ## Key Performance Indicators (KPIs):
-- Total Cases: The total number of confirmed COVID-19 cases.
-- Total Deaths: The total number of COVID-19 deaths.
-- Daily New Cases: The number of new cases reported each day.
-- Daily New Deaths: The number of new deaths reported each day.
-- Case Fatality Rate: The proportion of cases that result in death.
-- Vaccination Rate: The percentage of the population that has been vaccinated.
+- The total number of confirmed COVID-19 cases.
+- The total number of COVID-19 deaths.
+- The number of new cases reported each day.
+- The number of new deaths reported each day.
+- The proportion of cases that result in death.
+- The percentage of the population that has been vaccinated.
 ## Additional Analysis
 - Impact of Vaccination: Analyze the impact of vaccination rates on case and death rates.
 - Seasonal Trends: Identify seasonal patterns in COVID-19 cases and deaths.
