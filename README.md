@@ -18,5 +18,7 @@
 - Seasonal Trends: Identify seasonal patterns in COVID-19 cases and deaths.
 - Geographic Analysis: Visualize the spread of COVID-19 on a map.
 - Correlation Analysis: Explore correlations between various factors, such as population density, healthcare infrastructure, and COVID-19 outcomes.
+## Tableau file
+
 ## Tableau dashboard
 
