@@ -1,6 +1,6 @@
 # COVID19_SQL_portfolio_project23
 ## Project Objective
-- To analyze COVID-19 case and death data using SQL queries and visuaize using tableau to gain insights into trends, patterns, and impact on public health.
+- To analyze COVID-19 case death and vaccination data using SQL queries and visuaize using tableau to gain insights into trends, patterns, and impact on public health.
 ## SQL file
 - <a href = "https://github.com/abebag2022/SQL_portfolio_project23/blob/main/COVID%20portfolio%20project%20SQL%20query.sql">Sql files</a>
 ## Data Source
