@@ -14,8 +14,9 @@
 - The proportion of cases that result in death.
 - The percentage of the population that has been vaccinated.
 ## Additional Analysis
-- Impact of Vaccination: Analyze the impact of vaccination rates on case and death rates.
+- Impact of Vaccination: Analyze the impact of vaccination rates on cases and death rates.
 - Seasonal Trends: Identify seasonal patterns in COVID-19 cases and deaths.
 - Geographic Analysis: Visualize the spread of COVID-19 on a map.
 - Correlation Analysis: Explore correlations between various factors, such as population density, healthcare infrastructure, and COVID-19 outcomes.
+## Tableau dashboard
 
