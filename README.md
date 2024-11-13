@@ -3,7 +3,7 @@
 - To analyze COVID-19 case and death data using SQL queries and visuaize using tableau to gain insights into trends, patterns, and impact on public health.
 ## Data Source
 ## SQL file
-- <a href = "https://github.com/abebag2022/SQL_portfolio_project23/blob/main/COVID%20portfolio%20project%20SQL%20query.sql">
+- <a href = "https://github.com/abebag2022/SQL_portfolio_project23/blob/main/COVID%20portfolio%20project%20SQL%20query.sql">sql file</a>
 ## Key Performance Indicators (KPIs):
 - The total number of confirmed COVID-19 cases.
 - The total number of COVID-19 deaths.
